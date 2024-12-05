@@ -1,6 +1,8 @@
 // import React from 'react'
 
 export default function TypingContent() {
+
+    
   
   return (
     <div className='flex justify-center items-center '>
